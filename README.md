@@ -1,1 +1,1 @@
-# Python_Apps_Examples
+# Python based application examples
