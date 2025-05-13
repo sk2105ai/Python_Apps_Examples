@@ -1,3 +1,5 @@
 # Python app Examples
 
-This repo will contain python based application or code examples.
+This project is moved to below path and will be depreciated soon. Kindly refer new path.
+
+https://github.com/sk2105ai/InfrastructureMonitoringApplication.git
